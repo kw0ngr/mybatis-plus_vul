@@ -1,8 +1,8 @@
 # Exploit Title: 
-SQL injection vulnerability exists in Mybatis-Plus
+## SQL injection vulnerability exists in Mybatis-Plus
 
 # Date(发现漏洞日期): 
-2021-04-22
+## 2021-04-22
 
 # Exploit Author(漏洞发现人): [author] 
 
