@@ -88,3 +88,10 @@ jsqlparser-4.0.jar!/net/sf/jsqlparser/statement/select/PlainSelect.class
 line 437:
 ![image](https://user-images.githubusercontent.com/40931609/115807804-df28d700-a41b-11eb-8c11-eafd3dffd4ef.png)
 
+  
+# Supplement
+Update mybatis-plus to latest version 3.4.3
+  ![image](https://user-images.githubusercontent.com/40931609/145920954-b244e9b9-8f43-43dd-b35b-b1dd961dce18.png)
+The bug still exists 
+  ![image](https://user-images.githubusercontent.com/40931609/145921016-437baeac-61c4-4201-8a14-ff9bd4d9dd91.png)
+The warehouse code has been updated 
